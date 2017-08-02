@@ -1,0 +1,23 @@
+body {
+  background-color: blue;
+  background-image:url("http://woodbackgrounds.com/wp-content/uploads/2016/06/Background-of-Wood-Log-Ends.jpg");
+  color:white;
+  text-decoration:bold;
+}
+
+.description {
+  border: 3px, grey;
+  border-radius: 7px;
+  background-color: grey;
+  width: 50%;
+}
+
+.translate {
+  background-color: grey;
+  width: 10%;
+}
+
+img {
+  width: 8%;
+  height: 8%;
+}
